@@ -18,3 +18,4 @@ public class PlayerControler : MonoBehaviour
         transform.position = position;
     }
 }
+//test
